@@ -30,12 +30,10 @@ and **QA Automation**.
 
 ### 📌 Selected work
 
+- **[Portfolio](https://github.com/RaphaCastilho/Portfolio)** — Bilingual (PT/EN) Quality Engineering portfolio, dark enterprise UI · [Live](https://raphacastilho.github.io/Portfolio)
 - **[Playwright QA Lab](https://github.com/RaphaCastilho/qa-test-lab)** — 90+ Playwright tests, 6 suites (smoke, content, interaction, responsive, API mocking, accessibility), CI/CD, live dashboard · [Live](https://raphacastilho.github.io/qa-test-lab)
 - **[Playwright + ServeRest](https://github.com/RaphaCastilho/playwright-serverest)** — E2E automation with POM + TypeScript, k6 load testing (smoke/load/stress), Jenkins CI
-- **[Portfolio](https://github.com/RaphaCastilho/Portfolio)** — Bilingual (PT/EN) Quality Engineering portfolio, dark enterprise UI · [Live](https://raphacastilho.github.io/Portfolio)
 - **[Sentinel — sentinel-website](https://github.com/SentinelQAtech/sentinel-website)** — QA platform & ecosystem (automation + AI-assisted workflows)
-- **[rapha-os-2.0](https://github.com/RaphaCastilho/rapha-os-2.0)** — Personal operating hub (TypeScript)
-- **[dureza](https://github.com/RaphaCastilho/dureza)** — RPG fitness companion app (Next.js + Supabase)
 
 ---
 
