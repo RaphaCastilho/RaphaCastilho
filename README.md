@@ -32,7 +32,6 @@ and **QA Automation**.
 
 - **[Portfolio](https://github.com/RaphaCastilho/Portfolio)** — Bilingual (PT/EN) Quality Engineering portfolio, dark enterprise UI · [Live](https://raphacastilho.github.io/Portfolio)
 - **[Playwright QA Lab](https://github.com/RaphaCastilho/qa-test-lab)** — 90+ Playwright tests, 6 suites (smoke, content, interaction, responsive, API mocking, accessibility), CI/CD, live dashboard · [Live](https://raphacastilho.github.io/qa-test-lab)
-- **[Playwright + ServeRest](https://github.com/RaphaCastilho/playwright-serverest)** — E2E automation with POM + TypeScript, k6 load testing (smoke/load/stress), Jenkins CI
 - **[Sentinel — sentinel-website](https://github.com/SentinelQAtech/sentinel-website)** — QA platform & ecosystem (automation + AI-assisted workflows)
 
 ---
