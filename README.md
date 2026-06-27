@@ -11,7 +11,7 @@ and **QA Automation**.
 
 - 🔭 Working on: Playwright QA Lab, E2E testing, API validation, regression strategy, AI-assisted QA workflows
 - 🌐 Portfolio: **[raphacastilho.github.io/Portfolio](https://raphacastilho.github.io/Portfolio)**
-- 🧪 QA Lab: **[raphacastilho.github.io/qa-test-lab](https://raphacastilho.github.io/qa-test-lab)** — 90+ Playwright tests across 6 suites, CI/CD, interactive dashboards
+- 🧪 QA Lab: **[raphacastilho.github.io/qa-test-lab](https://raphacastilho.github.io/qa-test-lab)** — 100+ Playwright checks, CI/CD, interactive quality dashboards
 - 💼 Open to **PJ / contractor** roles in QA, Automation & Quality Engineering
 - 📫 castilho_raphael@hotmail.com · **[LinkedIn](https://www.linkedin.com/in/raphael-castilho/)**
 - 📄 CV: **[PT-BR](https://raphacastilho.github.io/Portfolio/src/cv/DEV_Rapha_CV_PT.pdf)** · **[EN-US](https://raphacastilho.github.io/Portfolio/src/cv/DEV_Rapha_CV_EN.pdf)**
@@ -31,7 +31,7 @@ and **QA Automation**.
 ### 📌 Selected work
 
 - **[Portfolio](https://github.com/RaphaCastilho/Portfolio)** — Bilingual (PT/EN) Quality Engineering portfolio, dark enterprise UI · [Live](https://raphacastilho.github.io/Portfolio)
-- **[Playwright QA Lab](https://github.com/RaphaCastilho/qa-test-lab)** — 90+ Playwright tests, 6 suites (smoke, content, interaction, responsive, API mocking, accessibility), CI/CD, live dashboard · [Live](https://raphacastilho.github.io/qa-test-lab)
+- **[Playwright QA Lab](https://github.com/RaphaCastilho/qa-test-lab)** — 100+ Playwright checks covering smoke, content, interaction, responsive layout, API mocking, accessibility, status reports, bug reports, and project docs; CI/CD + live dashboard · [Live](https://raphacastilho.github.io/qa-test-lab)
 - **[Sentinel — sentinel-website](https://github.com/SentinelQAtech/sentinel-website)** — QA platform & ecosystem (automation + AI-assisted workflows)
 
 ---
